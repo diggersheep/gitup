@@ -29,6 +29,7 @@ from docopt import docopt
 from color  import COLOR
 import sys
 
+
 if __name__ == '__main__':
 	path = ''
 	arguments = docopt(__doc__, version='0.1')
